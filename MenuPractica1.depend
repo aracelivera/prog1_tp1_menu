@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1618793852 source:c:\users\juant\desktop\programacion\practica 1\menu practica1\menupractica1\funciones.c
+	"funciones.h"
+
+1618793609 c:\users\juant\desktop\programacion\practica 1\menu practica1\menupractica1\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1618835346 source:c:\users\juant\desktop\programacion\practica 1\menu practica1\menupractica1\main.c
+	"funciones.h"
+
